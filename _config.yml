@@ -1,11 +1,11 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Carl Moberg
+email:       callemoberg@gmail.com
+author:      Carl Moberg
+description: "My Homepage"
 baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
+url:         "http://cmoberg.com"
+date_format: ""
 header_pages:
  - about.md
  - contact.html
@@ -51,15 +51,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: cmoberg
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: cmoberg
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: carlmoberg
 angellist_username:
 medium_id:
 bitcoin_url:
