@@ -20,15 +20,20 @@ My career is focused on building solutions that make the internet run better. Th
 
 Communicating technical and non-technical subject matters to customers and peers is one of my core strengths, and I am a highly regarded public speaker.
 
-My engineering background has provided me with a patent in network management, I have contributed to several networking standards, and I am a distinguished member of several engineering standards bodies.
+My engineering background has provided me with a patent in network management, I have contributed to several networking standards, and I have been a distinguished member of several engineering standards bodies.
 
 I live in Stockholm with two kids and a spouse and enjoy riding my bike to work. I am an advisor to several early-stage companies and am currently on the board of [Netnod Internet Exchange i Sverige AB](http://www.netnod.se).
 
 ## Work Experience
-### Cisco Systems _(2014 - Present)_
-I am currently _Director, Engineering Product Management_ in the Cloud Solutions and Platform Group. I arrived at Cisco through the acquisition of Tail-f Systems in 2014.
 
-My focus is on driving the strategy and vision of Network Service Orchestrator ([NSO](http://cisco.com/go/nso)), a market-leading network automation product suite with 150 major brand customers worldwide and a yearly revenue contribution of 100M USD. I have a team of 6 product managers and development community leaders, and I report to the VP of network automation and orchestration.
+### Avassa _(2020 - Present)_
+I am a co-founder and CTO at [Avassa](https://avassa.io). We are hard at work solving the fundamental challenges of building a robust, secure and lovable application-management system for the distributed edge cloud.
+
+
+### Cisco Systems _(2014 - 202)_
+I was a _Senior Director, Engineering Product Management_ in the Cloud Solutions and Platform Group. I arrived at Cisco through the acquisition of Tail-f Systems in 2014.
+
+My focus was on driving the strategy and vision of Network Service Orchestrator ([NSO](http://cisco.com/go/nso)), a market-leading network automation product suite with 150 major brand customers worldwide and a yearly revenue contribution of 100M USD. I have a team of 6 product managers and development community leaders, and I report to the VP of network automation and orchestration.
 
 Main tasks include:
 
